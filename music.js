@@ -11,8 +11,8 @@ loading.style.display = "block";
 const options = {
     method: 'GET',
     headers: {
-        'X-RapidAPI-Key': '7c28065cc3mshbd99a738ad5682fp1109d7jsnf373c5f810af',
-        'X-RapidAPI-Host': 'shazam.p.rapidapi.com'
+        'X-RapidAPI-Key': '',
+        'X-RapidAPI-Host': ''
     }
 };
 
